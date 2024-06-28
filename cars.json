@@ -1,0 +1,13 @@
+[
+    {
+        "car_number": "543657876",
+        "list_of_problems": [
+            "engine",
+            "5000 km treatment"
+        ]
+    },
+    {
+        "car_number": "1",
+        "list_of_problems": []
+    }
+]
